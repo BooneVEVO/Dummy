@@ -2,9 +2,10 @@
 
 https://daringfireball.net/projects/markdown/syntax
 
-I vim'd
+#Header 1
+##Header 2
+Is this working properly?
 
-## Header 2??
 
 
 
