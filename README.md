@@ -11,6 +11,7 @@ https://daringfireball.net/projects/markdown/syntax
 </ol>
 
 I am wrting extra commits.
+While doing so, I am examining the differences between "vim" and "nano".
 
 
 
